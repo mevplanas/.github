@@ -1,1 +1,1 @@
-# .github
+# Organizations info page.
