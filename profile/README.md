@@ -1,7 +1,10 @@
 ## Vilniaus planas
 
-# maps.vilnius.lt // 3d.vilnius.lt // renginiai.vilnius.lt // 
-[vilniausDNR](https://zemelapiai.vplanas.lt/vilniausdnr/lt)
+## What we work on?
+[Vilnius maps](https://maps.vilnius.lt/)
+[3D Vilnius](https://3d.vilnius.lt) 
+[Vilnius events](https://renginiai.vilnius.lt)
+[VilniausDNR](https://zemelapiai.vplanas.lt/vilniausdnr/lt)
 
 <!--
 
