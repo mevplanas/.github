@@ -1,4 +1,4 @@
-## Vilniaus planas
+## ID Vilnius
 
 ## What we work on? 👀
 - [Vilnius maps](https://maps.vilnius.lt/)
