@@ -1,6 +1,6 @@
 ## ID Vilnius
 
-## What we work on? 👀
+## What we're working on? 👀
 - [Vilnius maps](https://maps.vilnius.lt/)
 - [3D Vilnius](https://3d.vilnius.lt) 
 - [VilniausDNR](https://zemelapiai.vplanas.lt/vilniausdnr/lt)
